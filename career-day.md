@@ -27,7 +27,40 @@ I am Izzy and Gwen's dad. &#128104;&#127995;
 
 
 
-<!-- .slide: data-auto-animate data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+Any interest in Gwen and Izzy videos?? &#127909;
+
+
+
+<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+<video controls data-src="media/gwen-ice-cream.mp4"></video>
+
+Gwen loves ice cream&hellip; _a lot_. &#127848;
+
+
+
+<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+<video controls data-src="media/gwen-pizza.mp4"></video>
+
+And Gwen can eat pizza in her sleep. &#127829; &#128564;
+
+
+
+<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+<video controls data-src="media/izzy-orange-juice.mp4"></video>
+
+Izzy explains drinking orange juice. &#127818;
+
+
+
+<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+<video controls data-src="media/izzy-car-truck.mp4"></video>
+
+Izzy can't decide whether it's a car or a truck. &#128663; &#128763;
+
+
+
+<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
 Before we get started&hellip;
 
 
@@ -205,6 +238,8 @@ Pick a password at least<br/>**12 characters** or **4 words** long.
 
 
 <!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
-<img src="media/computer-guy-presenting.png" height="500px" style="background:none; border:none; box-shadow:none;">
+<img src="media/computer-guy-presenting.png" height="400px" style="background:none; border:none; box-shadow:none;">
 
 ## Thank you!
+
+https://careerday.site
