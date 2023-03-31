@@ -156,6 +156,15 @@ Fast forward to today &#9193;
 
 
 
+<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+And I have lots of Zoom meetings.
+
+
+
+<!-- .slide: data-background-image="media/zoom-team.png" -->
+
+
+
 <!-- .slide: data-auto-animate data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
 One more thing&hellip;
 
@@ -168,12 +177,30 @@ Let's talk about _passwords_.
 
 
 <!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
-<img src="media/tock-tick.png" height="300px" style="background:none; border:none; box-shadow:none;">
+<img src="media/tock-tick.png" height="200px" style="background:none; border:none; box-shadow:none;">
 
-Imagine you're signing up for _TockTick_, a video sharing app where all the videos play backwards.
+Imagine you're signing up for _TockTick_, a video sharing app where all videos play backwards. &#9194;
 
-You need to choose a **password**, what would you pick?
+You need to choose a good **password**,<br/>what would you pick?
 <!-- .element: style="background-color: rgb(228,107,50)" class="fragment" -->
+
+
+
+<!-- .slide: data-background-image="media/password-table.png" data-background-size="contain" -->
+
+
+
+<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+### Password Tips
+
+Use a **password manager**.
+<!-- .element: class="fragment" -->
+
+Use a **different password** for each site/app.
+<!-- .element: class="fragment" -->
+
+Pick a password at least<br/>**12 characters** or **4 words** long.
+<!-- .element: class="fragment" -->
 
 
 
