@@ -60,7 +60,7 @@ Izzy can't decide whether it's a car or a truck. &#128663; &#128763;
 
 
 
-<!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
+<!-- .slide: data-auto-animate data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
 Before we get started&hellip;
 
 
@@ -207,6 +207,7 @@ One more thing&hellip;
 One more thing&hellip;
 
 Let's talk about _passwords_.
+
 
 
 <!-- .slide: data-background-gradient="linear-gradient(to top, #241734, #60447F)" -->
